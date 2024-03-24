@@ -1,0 +1,20 @@
+{
+  "name": "calculator-x1",
+  "version": "1.0.2",
+  "description": "A simple calculator by using typescript",
+  "type": "module",
+  "bin": {
+    "calculator-x": "app.js"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mishal zubair",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "calculator-x1": "^1.0.2",
+    "inquirer": "^9.2.16"
+  }
+}
